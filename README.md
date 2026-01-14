@@ -1,4 +1,5 @@
 ## Retail Pipeline Demo (Python + SQLite)
+Author: Xindi Li
 
 This is a small **Python + SQLite** demo project that shows a simple end-to-end data workflow:
 
